@@ -1,1 +1,2 @@
-Second fichier du repo créé
+Second fichier du repo crÃ©Ã© en local
+et modifiÃ© sur GitHub
